@@ -9,8 +9,8 @@ Vue2.0全家桶
 https://tiantian2000.github.io/vue-music/
 
 <h2>项目截图<h2>
-<img src="https://github.com/tiantian2000/vue-seller/blob/gh-pages/示例1.png"/>
-<img src="https://github.com/tiantian2000/vue-seller/blob/gh-pages/示例.png"/>
+<img src="https://github.com/tiantian2000/vue-music/gh-pages/示例1.png"/>
+<img src="https://github.com/tiantian2000/vue-music/gh-pages/示例.png"/>
 
 <h2> 运行项目</h2>
 
