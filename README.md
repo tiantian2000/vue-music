@@ -18,7 +18,7 @@ https://tiantian2000.github.io/vue-music/
 git clone https://github.com/tiantian2000/vue-seller.git
 
 #切换到项目所在文件夹<br>
-cd vue-seller
+cd vue-music
 
 #安装依赖<br>
 npm install
